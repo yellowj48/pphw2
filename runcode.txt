@@ -1,0 +1,17 @@
+Instructions to run code
+
+To test Problem 1 in the assignment:
+
+Note: compile instructions using linux
+Compile code:  g++ mino.cpp -pthread
+to run program:  ./a.out 
+Prompt will then show asking to enter number of guest.
+
+
+To test Problem 2 in the assignment:
+
+Note: compile instructions using linux
+Compile code:  g++ party.cpp -pthread
+to run program:  ./a.out 
+Prompt will then show asking to enter number of guest.
+
